@@ -1,8 +1,6 @@
 
 # p1_grade_calculator.py
 
-from typing_extensions import final
-
 
 grades = []
 
